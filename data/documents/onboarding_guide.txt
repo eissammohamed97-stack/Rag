@@ -1,0 +1,22 @@
+New Employee Onboarding Guide
+
+Week 1: Setup and Orientation
+New employees receive their laptop and login credentials on their first day.
+IT setup, including email, VPN access, and internal tools, is completed during the first two days.
+A welcome session with HR covers benefits enrollment, payroll setup, and company policies.
+Each new employee is assigned a "buddy" from their team to help them settle in.
+
+Week 2: Role-Specific Training
+Employees begin shadowing team members relevant to their role.
+Engineering hires complete a codebase walkthrough and set up their local development environment.
+Sales hires complete product training and shadow at least two live customer calls.
+
+30-60-90 Day Plan
+By day 30, employees should understand team goals and complete initial training modules.
+By day 60, employees are expected to contribute independently to at least one active project.
+By day 90, a formal check-in with the manager reviews performance and sets goals for the next quarter.
+
+Benefits Enrollment
+Health insurance enrollment must be completed within the first 30 days of employment.
+The company matches 401(k) contributions up to 4% of the employee's salary.
+Employees become eligible for the annual bonus program after 90 days of employment.
