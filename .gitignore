@@ -1,0 +1,16 @@
+# Secrets - never commit these
+.env
+.streamlit/secrets.toml
+
+# Generated vector store (rebuild with 05_create_chroma_store.py)
+data/chroma_store/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
